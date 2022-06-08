@@ -11,13 +11,13 @@ Al finalizar esta practica contaras con:
 
 Ingresa a la página [portal.azure.com](https://portal.azure.com/) y posteriormente inicias seccion, una vez iniciada la seccion estaras en la siguiente pestaña:
 
-![](./img/homeAzureF.png)
+![](./img/homeAzureF.PNG)
 
 ## Paso 2 - Buscar el servicio de WordPress
 
 Te dirigiras al Marketplace de Azure y buscaras WordPress, y seleccionaras el primer resultado, que es por medio de App Services.
 
-![](./img/mp.png)
+![](./img/mp.PNG)
 
 Luego precionaras en Crear.
 
