@@ -11,16 +11,17 @@ Al finalizar esta practica contaras con:
 
 Ingresa a la página [portal.azure.com](https://portal.azure.com/) y posteriormente inicias seccion, una vez iniciada la seccion estaras en la siguiente pestaña:
 
-![](./img/homeAzure.png)
+![](./img/homeAzureF.png)
 
 ## Paso 2 - Buscar el servicio de WordPress
 
 Te dirigiras al Marketplace de Azure y buscaras WordPress, y seleccionaras el primer resultado, que es por medio de App Services.
 
-![](./img/marketplace.png)
+![](./img/mp.png)
 
 Luego precionaras en Crear.
-![](./img/wordpressCreation.PNG)
+
+![](./img/Creationwordpress.PNG)
 
 
 ## Paso 3 - Crear el WordPress
@@ -35,11 +36,13 @@ Seleccionar la suscripcion que deses usar, en mi caso usare "Azure for Students"
 ### *Grupo de Recursos*
 Aqui seleccionaras un grupo de recursos, en dado caso de no tener uno haras lo siguiente.
 Precionaras en "Crear nuevo" y le asignaras el nombres que quieras que tenga el grupo de resucrsos.
+
 ![](./img/grupoDeRecursos.PNG)
 
 
 ### *Region*
 En el apartado de region Seleccionas la region que creas mas conveniente, se recomienda que sea la region en la cual estaran tus usuarios.
+
 ![](./img/region.PNG)
 
 ### *Nombre*
